@@ -16,3 +16,20 @@ This project empowers hospitals and healthcare professionals to stratify chronic
 - Microsoft Excel (QA & UAT trackers)
 - JSON (Power BI Theme Customization)
 - Simulated CSV data (patients, visits, vitals, diagnosis)
+
+## Data Preparation
+- Simulated datasets merged: patients.csv, visits.csv, vitals.csv
+- Cleaned invalid ages (e.g., -1)
+- Generated fields like Segment_Label, Gender_Label, Insurance_Label
+- RFM metrics computed: Recency, Frequency, Monetary
+- Final file: final_patient_rfm.csv
+
+## RFM Segmentation Logic
+
+| Segment | Recency (Days) | Frequency (# Visits) | Monetary ($) |
+|---------|----------------|----------------------|------------|
+| High Risk | > 90 | > 10 | > 10,000 |
+| Medium Risk | 30–90 | 5–10 | 5,000–10,000 |
+| Low Risk | < 30 | < 5 | < 5,000 |
+
+
