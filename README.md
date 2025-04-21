@@ -13,8 +13,9 @@ By analyzing visit frequency, recency, and cost data, the system identifies whic
 - Facilitate exports and ad hoc slicing of patient data for stakeholder-specific needs
 
 ## Dataset Overview
-##### Source: CMS HRRP Data (FY 2025) https://data.cms.gov/provider-data/dataset/9n3s-kdb3
-##### Period Covered: July 1, 2020 – June 30, 2023
+##### Source: MEPS 2022 (Medical Expenditure Panel Survey)  https://meps.ahrq.gov/mepsweb/data_stats/download_data_files.jsp?y=2022
+
+
 Key Fields:
 - DUPERSID (Unique Patient ID)
 - Last_Visit_Date, Total_Visits, Total_Expenditure
