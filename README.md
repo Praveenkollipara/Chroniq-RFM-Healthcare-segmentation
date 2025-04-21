@@ -1,6 +1,10 @@
 # Chroniq-RFM-Healthcare-segmentation
 A healthcare analytics solution leveraging RFM (Recency, Frequency, Monetary) segmentation to identify high-risk chronic patients, reduce readmissions, and enable data-driven care management
 
+### Dashboard Link : 
+    https://app.powerbi.com/groups/me/reports/6bd3c642-093b-42b3-b4fa-4c92ab237d0c/c2a7bac4ce6ce7fe0088
+
+
 ## Project Overview
 This project stratifies chronic care patients using RFM (Recency, Frequency, Monetary) segmentation, helping hospitals proactively manage high-risk individuals.
 By analyzing visit frequency, recency, and cost data, the system identifies which patients are most likely to benefit from follow-ups and cost-saving interventions.
