@@ -49,15 +49,6 @@ Key Fields:
 | Medium Risk | 30–90 | 5–10 | 5,000–10,000 |
 | Low Risk | < 30 | < 5 | < 5,000 |
 
-## Power BI Dashboard Structure
-###  Page 1: Executive Overview
-- KPI Cards: Total Patients, High Risk %, Avg Visits, Avg Spend
-- Segment Distribution & Cost Trends
-- Filters: Gender, Insurance, Region
-
-### Page 2: Segment Deep Dive
-- Avg Age, Visits, Spend by Segment
-- Gender & Insurance split visuals
 
 
 
