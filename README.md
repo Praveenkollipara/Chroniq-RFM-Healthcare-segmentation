@@ -59,14 +59,6 @@ Key Fields:
 - Avg Age, Visits, Spend by Segment
 - Gender & Insurance split visuals
 
-### Page 3: Patient Drill-down
-- Slicer to select patient ID
-- Cards for Age, Region, Insurance
-- Full visit profile and metrics
-
-### Page 4: Ad Hoc Explorer
-- Fully filterable patient table
-- Export to Excel with filters
 
 
 ## Key Insights
