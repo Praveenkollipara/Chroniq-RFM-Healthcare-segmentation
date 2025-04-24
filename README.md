@@ -50,6 +50,26 @@ Key Fields:
 | Low Risk | < 30 | < 5 | < 5,000 |
 
 
+## Power BI Dashboard Structure
+###  Page 1: Executive Overview
+- KPI Cards: Total Patients, High Risk %, Avg Visits, Avg Spend
+- Segment Distribution & Cost Trends
+- Filters: Gender, Insurance, Region
+
+### Page 2: Segment Deep Dive
+- Avg Age, Visits, Spend by Segment
+- Gender & Insurance split visuals
+
+
+### Page 3: Patient Drill-down
+- Slicer to select patient ID
+- Cards for Age, Region, Insurance
+- Full visit profile and metrics
+
+### Page 4: Ad Hoc Explorer
+- Fully filterable patient table
+- Export to Excel with filters
+
 
 
 ## Key Insights
